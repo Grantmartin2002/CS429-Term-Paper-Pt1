@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.14)  20 OCT 2021 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.14)  21 OCT 2021 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,50 +247,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 17.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¦ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 25.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+
 (./term-paper-template.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -298,32 +267,33 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
  (./term-paper-template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `term-paper-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 5092 strings out of 494805
- 76001 string characters out of 6178000
- 153969 words of memory out of 5000000
- 8389 multiletter control sequences out of 15000+600000
- 15248 words of font info for 35 fonts, out of 8000000 for 9000
+ 5110 strings out of 494805
+ 76314 string characters out of 6178000
+ 152969 words of memory out of 5000000
+ 8404 multiletter control sequences out of 15000+600000
+ 15505 words of font info for 36 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 28i,6n,25p,2028b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,25p,1700b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmri8a.pfb>
-Output written on term-paper-template.pdf (2 pages, 41969 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on term-paper-template.pdf (2 pages, 49096 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 41 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
