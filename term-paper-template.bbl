@@ -27,4 +27,20 @@ Butler~W. Lampson.
 \newblock {\em {System Dynamics Review}}, 10(2--3):175--188, {Summer--Fall}
   1994.
 
+\bibitem{Haigh:2016}
+{Thomas Haigh}.
+\newblock Sir tim berners-lee.
+\newblock \url{https://amturing.acm.org/award_winners/berners-lee_8087960.cfm},
+  2016.
+
+\bibitem{Berners-Lee:1990}
+{Tim Berners-Lee}.
+\newblock Information management: A proposal.
+\newblock \url{https://www.w3.org/History/1989/proposal.html}, 1990.
+
+\bibitem{Berners-Lee:1998}
+{Tim Berners-Lee}.
+\newblock Web architecture from 50,000 feet.
+\newblock \url{https://www.w3.org/DesignIssues/old/Architecture.html}, 1998.
+
 \end{thebibliography}
