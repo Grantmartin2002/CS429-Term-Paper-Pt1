@@ -1,16 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{parnas:1985}
-{David Lorge Parnas}.
-\newblock Software aspects of strategic defense systems.
-\newblock {\em {Communications of the ACM}}, 28(12):1326--1335, December 1985.
-
-\bibitem{simon:1962}
-{Herbert A. Simon}.
-\newblock The architecture of complexity.
-\newblock {\em {Proceedings of the American Philosophical Society}},
-  106(6):467--482, {12 December 1962}.
-
 \bibitem{reason:2000}
 {James Reason}.
 \newblock Human error: models and management.

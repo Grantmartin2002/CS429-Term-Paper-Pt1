@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.14)  6 DEC 2021 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.14)  6 DEC 2021 23:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -167,30 +167,33 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen107
 \Gin@req@width=\dimen108
 )
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 (./term-paper-template.aux)
 \openout1 = `term-paper-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 \AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -200,9 +203,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count97
 )
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
 
 (./term-paper-template.out) (./term-paper-template.out)
 \@outlinefile=\write3
@@ -240,11 +243,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 17.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 17.
+(Font)              <6> on input line 18.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¦ in font ptmr7t!
@@ -262,61 +265,50 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-
-(./term-paper-template.bbl [2]
+ [2]
+(./term-paper-template.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 33.
+ [3]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 33.
+(Font)              <10.95> on input line 22.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
 
 (./term-paper-template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `term-paper-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 5154 strings out of 494805
- 76963 string characters out of 6178000
- 154077 words of memory out of 5000000
- 8439 multiletter control sequences out of 15000+600000
+ 5185 strings out of 494805
+ 77511 string characters out of 6178000
+ 153311 words of memory out of 5000000
+ 8467 multiletter control sequences out of 15000+600000
  16379 words of font info for 39 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 28i,6n,25p,1362b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,25p,1370b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on term-paper-template.pdf (3 pages, 64181 bytes).
+Output written on term-paper-template.pdf (4 pages, 62126 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 69 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

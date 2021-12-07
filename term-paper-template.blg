@@ -3,46 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: term-paper-template.aux
 The style file: plain.bst
 Database file #1: term-paper-template.bib
-Warning--there's a month but no year in simon:1962
-You've used 8 entries,
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            555 strings with 5025 characters,
-and the built_in function-call counts, 2140 in all, are:
-= -- 218
-> -- 56
+            539 strings with 4765 characters,
+and the built_in function-call counts, 1521 in all, are:
+= -- 152
+> -- 42
 < -- 0
-+ -- 25
-- -- 16
-* -- 135
-:= -- 360
-add.period$ -- 24
-call.type$ -- 8
-change.case$ -- 32
++ -- 18
+- -- 12
+* -- 86
+:= -- 260
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 76
-empty$ -- 203
-format.name$ -- 16
-if$ -- 445
+cite$ -- 6
+duplicate$ -- 54
+empty$ -- 147
+format.name$ -- 12
+if$ -- 319
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 5
-newline$ -- 43
-num.names$ -- 16
-pop$ -- 35
+int.to.str$ -- 6
+missing$ -- 3
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 30
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 18
 quote$ -- 0
-skip$ -- 55
+skip$ -- 42
 stack$ -- 0
-substring$ -- 168
-swap$ -- 8
+substring$ -- 101
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 32
-warning$ -- 1
-while$ -- 25
-width$ -- 9
-write$ -- 87
-(There was 1 warning)
+type$ -- 24
+warning$ -- 0
+while$ -- 17
+width$ -- 7
+write$ -- 65
